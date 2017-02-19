@@ -1,6 +1,9 @@
-(  function (){
+( function(){
 
-angular.module('myFirstApp', []);
+
+	angular.module('app')
+	.contoller('myController', []);
+
 
 
 
