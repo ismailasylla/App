@@ -1,8 +1,14 @@
 ( function(){
 
 
-	angular.module('app')
-	.contoller('myController', []);
+	angular.module('app',[]);
+	.contoller('myController'  function(){
+
+
+
+
+		
+	});
 
 
 
